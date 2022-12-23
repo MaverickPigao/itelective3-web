@@ -8,7 +8,7 @@ A **skills inventory system** is a tool used by organizations to track and manag
 ## **Table of Contents**
 * [General information](#general-information)
 * [Frameworks Used](#frameworks-used)
-* [List of Possible Sub-Systems](#sub-systems)
+* [List of Possible Sub-Systems](#list-of-possible-sub-systems)
 
 
 ## **General Information**
@@ -49,8 +49,11 @@ This project uses the **[FERN](https://javascript.plainenglish.io/getting-starte
 
 ## **List of Possible Sub-Systems**
 
-* ### **Skills Gap System** - is a system or framework used to identify the skills that are needed for a particular job or career, assess the current skills of individuals within an organization, and develop a plan to bridge any gaps between the two. It can also be used to identify the skills that are needed for an organization to meet its strategic goals by assessing the skills of the current workforce and identifying any gaps that need to be addressed. Overall, a skills gap system helps to ensure that the workforce has the necessary skills to support the success of the organization.
+### **Skills Gap System**
+- is a system or framework used to identify the skills that are needed for a particular job or career, assess the current skills of individuals within an organization, and develop a plan to bridge any gaps between the two. It can also be used to identify the skills that are needed for an organization to meet its strategic goals by assessing the skills of the current workforce and identifying any gaps that need to be addressed. Overall, a skills gap system helps to ensure that the workforce has the necessary skills to support the success of the organization.
 
-* ### **Recruitment Management System** - is a system that helps organizations manage the process of recruiting and hiring new employees. It typically includes features such as job posting, resume tracking, applicant tracking, and interview scheduling, as well as tools for managing and evaluating the performance of candidates throughout the recruitment process.
+### **Recruitment Management System**
+- is a system that helps organizations manage the process of recruiting and hiring new employees. It typically includes features such as job posting, resume tracking, applicant tracking, and interview scheduling, as well as tools for managing and evaluating the performance of candidates throughout the recruitment process.
 
-* ### **Succession Management System** - is a system that helps process identifying, developing, and preparing potential successors for key leadership positions within an organization. A succession management system is a system or framework that is used to identify, assess, and develop individuals with the potential to succeed in these key roles, and to create a pipeline of talent that is ready to step up and take on these responsibilities when needed.
+### **Succession Management System**
+- is a system that helps process identifying, developing, and preparing potential successors for key leadership positions within an organization. A succession management system is a system or framework that is used to identify, assess, and develop individuals with the potential to succeed in these key roles, and to create a pipeline of talent that is ready to step up and take on these responsibilities when needed.
